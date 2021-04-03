@@ -1,4 +1,4 @@
-package com.codecraftshop.openshift.mysql.model;
+package com.sanjayharsora.openshift.mysql.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
