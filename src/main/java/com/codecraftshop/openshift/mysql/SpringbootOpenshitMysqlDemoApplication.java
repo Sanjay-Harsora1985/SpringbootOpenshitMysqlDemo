@@ -1,4 +1,4 @@
-package com.sanjayharsora.openshift.mysql;
+package com.codecraftshop.openshift.mysql;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
